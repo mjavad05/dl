@@ -2,4 +2,4 @@
 
 ----
 
-- 1 - 🎬 [Harry Styles - Watermelon Sugar (Official Video)](https://github.com/mjavad05/dl/tree/master/videos/Harry%20Styles%20-%20Watermelon%20Sugar%20%28Official%20Video%29)
+- 1 - 🎶 [Regular Languages： Deterministic Finite Automaton (DFA)](https://github.com/mjavad05/dl/tree/master/videos/Regular%20Languages%EF%BC%9A%20Deterministic%20Finite%20Automaton%20%28DFA%29)
