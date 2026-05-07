@@ -1,4 +1,4 @@
-name: 02- 💾 Large Youtube Videos Downloader
+name: Youtube Videos Downloader
 
 on:
   workflow_dispatch:
